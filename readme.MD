@@ -1,1 +1,1 @@
-# Brief demo of scientific concept 
+# Brief demo of scientific concepts

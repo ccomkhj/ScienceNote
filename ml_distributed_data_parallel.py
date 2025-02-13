@@ -1,3 +1,10 @@
+"""
+[Note]
+1. Running Distributed computing in jupyter notebook is tricky, so I write a sample code in python script (.py).
+2. pip install numpy==1.23.5
+[2](https://stackoverflow.com/questions/71689095/how-to-solve-the-pytorch-runtimeerror-numpy-is-not-available-without-upgrading)
+"""
+
 import os
 import torch
 import torch.nn as nn
